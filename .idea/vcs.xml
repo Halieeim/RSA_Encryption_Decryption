@@ -2,5 +2,17 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Computer_Graphics_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Door_Locker_Security_System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Fan_Controller_Using_Atmega32" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/GLCM-WITH-KNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Iris-Classification-LDA-Aproach-And-Implementing-LDA-From-Scratch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/MIPS_Assembly_Assignments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Measuring_Distance_Using_Ultrasonic_With_Atmega32" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Standard_Huffman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/StopWatch-ATMega32" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/University-Library-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/My_Github/Vector_Quantization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Downloads/OfficeToPDF" vcs="Git" />
   </component>
 </project>
